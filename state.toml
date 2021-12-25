@@ -1,0 +1,2911 @@
+"http://example.com" = """
+<!-- This HTML document was cleaned up (simplified) by `Skans.clean`. -->
+<!DOCTYPE html><HTML>
+  <head>
+    <title>
+      Example Domain
+    </title>
+    <meta/>
+    <meta/>
+    <meta/>
+    <style></style>
+  </head>
+  <body>
+    <div>
+      <h1>
+        Example Domain
+      </h1>
+      <p>
+        This domain is for use in illustrative examples in documents. You may use this
+        domain in literature without prior coordination or asking for permission.
+      </p>
+      <p>
+        <a href="https://www.iana.org/domains/example">
+          More information...
+        </a>
+      </p>
+    </div>
+  </body>
+</HTML>
+
+"""
+"https://bbc.com" = """
+<!-- This HTML document was cleaned up (simplified) by `Skans.clean`. -->
+<!DOCTYPE html><HTML class="b-header--black--white b-pw-1280 b-reith-sans-font">
+  <head>
+    <meta/>
+    <meta content="Breaking news, sport, TV, radio and a whole lot more.
+        The BBC informs, educates and entertains - wherever you are, whatever your age." name="description"/>
+    <meta/>
+    <title>
+      BBC - Homepage
+    </title>
+    <script></script>
+    <meta/>
+    <meta/>
+    <meta/>
+    <meta content="BBC - Homepage" property="og:title"/>
+    <meta/>
+    <meta/>
+    <meta/>
+    <meta/>
+    <meta/>
+    <meta/>
+    <link/>
+    <meta/>
+    <style></style>
+    <script></script>
+    <link/>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <link/>
+    <link/>
+    <link/>
+    <script></script>
+    <link/>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <link/>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <style></style>
+  </head>
+  <body>
+    <div></div>
+    <noscript>
+      <p>
+        <img/>
+      </p>
+    </noscript>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <header>
+      <div>
+        <div>
+          <div>
+            <a href="https://www.bbc.co.uk">
+              Homepage
+            </a>
+          </div>
+          <section>
+            <div>
+              <h2>
+                Accessibility links
+              </h2>
+              <ul>
+                <li>
+                  <a href="#[...]">
+                    Skip to content
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/accessibility/">
+                    Accessibility Help
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </section>
+          <div>
+            <div>
+              <a href="https://account.bbc.com/account">
+                <span>
+                  BBC Account
+                </span>
+              </a>
+            </div>
+            <script></script>
+            <a href="#[...]">
+              <span>
+                Notifications
+              </span>
+              <div></div>
+              <div></div>
+              <span></span>
+            </a>
+          </div>
+          <nav>
+            <div>
+              <ul>
+                <li>
+                  <a href="https://www.bbc.co.uk">
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/news">
+                    News
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/sport">
+                    Sport
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/weather">
+                    Weather
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/iplayer">
+                    iPlayer
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/sounds">
+                    Sounds
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/cbbc">
+                    CBBC
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/cbeebies">
+                    CBeebies
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/food">
+                    Food
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/bitesize">
+                    Bitesize
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/arts">
+                    Arts
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/taster">
+                    Taster
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/news/localnews">
+                    Local
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/bbcthree">
+                    Three
+                  </a>
+                </li>
+                <li>
+                  <a href="#[...]">
+                    Menu
+                    <span></span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          <div>
+            <a href="https://search.bbc.co.uk/search?[...]">
+              Search
+            </a>
+            <form>
+              <div>
+                <input/>
+                <label>
+                  Search the BBC
+                </label>
+                <input/>
+                <button>
+                  Search the BBC
+                </button>
+                <input/>
+              </div>
+            </form>
+            <form>
+              <div>
+                <input/>
+                <button>
+                  <svg>
+                    <title>
+                      Search BBC
+                    </title>
+                    <path></path>
+                  </svg>
+                  <svg>
+                    <path></path>
+                  </svg>
+                  <span>
+                    Search BBC
+                  </span>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div></div>
+      </div>
+    </header>
+    <div>
+      <h1>
+        BBC Homepage
+      </h1>
+      <div>
+        <section>
+          <div>
+            <div>
+              <div>
+                <script></script>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <h2>
+          </h2>
+        </section>
+        <section>
+          <div>
+            <ul>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3>
+                      <a href="/news/science-environment-59782057">
+                        World's biggest space telescope leaves Earth
+                      </a>
+                    </h3>
+                    <p>
+                      The launch of the $10bn successor to the Hubble telescope opens a new era in space exploration.
+                    </p>
+                    <a href="/news/science_and_environment">
+                      Science &amp; Environment
+                    </a>
+                  </div>
+                  <a href="/news/science-environment-59782057">
+                    World's biggest space telescope leaves Earth
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3>
+                      <a href="/news/uk-59768736">
+                        Queen's Christmas message pays tribute to Philip
+                      </a>
+                    </h3>
+                    <a href="/news/uk">
+                      UK
+                    </a>
+                  </div>
+                  <a href="/news/uk-59768736">
+                    Queen's Christmas message pays tribute to Philip
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3>
+                      <a href="https://www.bbc.co.uk/news/entertainment-arts-59038089">
+                        After you... Who might be the next James Bond?
+                      </a>
+                    </h3>
+                    <a href="http://www.bbc.com/news">
+                      News
+                    </a>
+                  </div>
+                  <a href="https://www.bbc.co.uk/news/entertainment-arts-59038089">
+                    After you... Who might be the next James Bond?
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3>
+                      <a href="/news/uk-england-berkshire-59791247">
+                        Armed intruder arrested in Windsor Castle grounds
+                      </a>
+                    </h3>
+                    <a href="/news/england/berkshire">
+                      Berkshire
+                    </a>
+                  </div>
+                  <a href="/news/uk-england-berkshire-59791247">
+                    Armed intruder arrested in Windsor Castle grounds
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3>
+                      <a href="/sport/cricket/59789915">
+                        Yorkshire and England great Illingworth dies
+                      </a>
+                    </h3>
+                    <a href="/sport/cricket">
+                      Cricket
+                    </a>
+                  </div>
+                  <a href="/sport/cricket/59789915">
+                    Yorkshire and England great Illingworth dies
+                  </a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </section>
+        <section>
+          <div>
+            <div>
+              <div>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <script></script>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <section>
+                    <h2>
+                      <a href="/news">
+                        News
+                      </a>
+                    </h2>
+                    <div>
+                      <ul>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="/news/world-europe-59738548">
+                                  No time for war: Russians see no chance of conflict
+                                </a>
+                              </h3>
+                              <p>
+                                With rhetoric becoming harsh and fears of an invasion growing, Muscovites give their views on the crisis.
+                              </p>
+                              <a href="/news/world/europe">
+                                Europe
+                              </a>
+                            </div>
+                            <a href="/news/world-europe-59738548">
+                              No time for war: Russians see no chance of conflict
+                            </a>
+                          </div>
+                        </li>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <span></span>
+                            <div>
+                              <h3>
+                                <a href="/news/uk-scotland-59780104">
+                                  Red-nosed dynasty: How we keep tabs on 150 reindeer
+                                </a>
+                              </h3>
+                              <p>
+                                In the Scottish Highlands you’ll find a large herd of reindeer roaming the Cairngorms National Park.
+                              </p>
+                              <a href="/news/scotland">
+                                Scotland
+                              </a>
+                            </div>
+                            <a href="/news/uk-scotland-59780104">
+                              Red-nosed dynasty: How we keep tabs on 150 reindeer
+                            </a>
+                          </div>
+                        </li>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="/news/world-europe-59789770">
+                                  Pope: Huge tragedies being ignored by world
+                                </a>
+                              </h3>
+                              <p>
+                                In his Christmas Day speech, the Pope said "immense tragedies" were being passed over in near silence.
+                              </p>
+                              <a href="/news/world/europe">
+                                Europe
+                              </a>
+                            </div>
+                            <a href="/news/world-europe-59789770">
+                              Pope: Huge tragedies being ignored by world
+                            </a>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </section>
+                  <section>
+                    <h2>
+                      <a href="/sport">
+                        Sport
+                      </a>
+                    </h2>
+                    <div>
+                      <ul>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="/sport/cricket/59789912">
+                                  England make four changes for third Test
+                                </a>
+                              </h3>
+                              <p>
+                                Zak Crawley and Jonny Bairstow are among four changes made by England for the must-win third Test against Australia at the Melbourne Cricket Ground.
+                              </p>
+                              <a href="/sport/cricket">
+                                Cricket
+                              </a>
+                            </div>
+                            <a href="/sport/cricket/59789912">
+                              England make four changes for third Test
+                            </a>
+                          </div>
+                        </li>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="/sport/cricket/59789911">
+                                  Boland debut 'huge' for Australia
+                                </a>
+                              </h3>
+                              <p>
+                                Scot Boland will become only the second player with indigenous Australian heritage to play for the men's Test team in the third Test against England.
+                              </p>
+                              <a href="/sport/cricket">
+                                Cricket
+                              </a>
+                            </div>
+                            <a href="/sport/cricket/59789911">
+                              Boland debut 'huge' for Australia
+                            </a>
+                          </div>
+                        </li>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="/sport/football/59781300">
+                                  Premier League meeting 'waste of time'
+                                </a>
+                              </h3>
+                              <p>
+                                Tottenham boss Antonio Conte says Thursday's meeting between managers and the Premier League to discuss issues around the Covid-19 pandemic was like talking to a brick wall.
+                              </p>
+                              <a href="/sport/football">
+                                Football
+                              </a>
+                            </div>
+                            <a href="/sport/football/59781300">
+                              Premier League meeting 'waste of time'
+                            </a>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </section>
+                  <section>
+                    <h2>
+                      <span>
+                        Best of 2021
+                      </span>
+                    </h2>
+                    <div>
+                      <ul>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="https://www.bbc.com/travel/article/20210124-nigeria-the-country-that-loves-to-overachieve">
+                                  The country that loves to overachieve
+                                </a>
+                              </h3>
+                              <p>
+                                Here, success isn't just a goal; it's a way of life
+                              </p>
+                              <a href="https://www.bbc.com/travel">
+                                Travel
+                              </a>
+                            </div>
+                            <a href="https://www.bbc.com/travel/article/20210124-nigeria-the-country-that-loves-to-overachieve">
+                              The country that loves to overachieve
+                            </a>
+                          </div>
+                        </li>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="https://www.bbc.com/future/article/20210603-how-soon-do-we-become-unfit-when-we-stop-exercising">
+                                  What happens when we stop exercising?
+                                </a>
+                              </h3>
+                              <p>
+                                It can take months of hard work to build up fitness, but it declines quickly
+                              </p>
+                              <a href="http://www.bbc.com/future">
+                                Future
+                              </a>
+                            </div>
+                            <a href="https://www.bbc.com/future/article/20210603-how-soon-do-we-become-unfit-when-we-stop-exercising">
+                              What happens when we stop exercising?
+                            </a>
+                          </div>
+                        </li>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <div>
+                              <h3>
+                                <a href="https://www.bbc.com/worklife/article/20210126-degree-inflation-how-the-four-year-degree-became-required">
+                                  The big 'degree inflation' problem
+                                </a>
+                              </h3>
+                              <p>
+                                How the four-year degree became a basic job requirement
+                              </p>
+                              <a href="http://www.bbc.com/worklife">
+                                Worklife
+                              </a>
+                            </div>
+                            <a href="https://www.bbc.com/worklife/article/20210126-degree-inflation-how-the-four-year-degree-became-required">
+                              The big 'degree inflation' problem
+                            </a>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </section>
+                  <section>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <h2>
+                              London Weather
+                            </h2>
+                            <a href="#[...]">
+                              Edit
+                            </a>
+                          </div>
+                          <form>
+                            <div>
+                              <input/>
+                              <button>
+                                <span></span>
+                              </button>
+                            </div>
+                          </form>
+                          <p></p>
+                          <ul></ul>
+                        </div>
+                        <div>
+                          <ul>
+                            <li>
+                              <a href="/weather/2643743?[...]">
+                                <img/>
+                                <h3>
+                                  Sat
+                                </h3>
+                                <p>
+                                  6°C
+                                </p>
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/weather/2643743?[...]">
+                                <img/>
+                                <h3>
+                                  Sun
+                                </h3>
+                                <p>
+                                  10°C
+                                </p>
+                                <p>
+                                  7°C
+                                </p>
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/weather/2643743?[...]">
+                                <img/>
+                                <h3>
+                                  Mon
+                                </h3>
+                                <p>
+                                  11°C
+                                </p>
+                                <p>
+                                  9°C
+                                </p>
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/weather/2643743?[...]">
+                                <img/>
+                                <h3>
+                                  Tue
+                                </h3>
+                                <p>
+                                  12°C
+                                </p>
+                                <p>
+                                  10°C
+                                </p>
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div>
+            <div>
+              <a href="/reel">
+                <div>
+                  <div>
+                    <div>
+                      <svg>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </svg>
+                    </div>
+                  </div>
+                  <div>
+                    <div>
+                      <div>
+                        Visit Reel
+                      </div>
+                      <div>
+                        <svg>
+                          <line></line>
+                          <polyline></polyline>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <p>
+              The most amazing videos from the BBC
+            </p>
+            <ul>
+              <li>
+                <div>
+                  <a href="/reel/video/p09m0v4x/extinct-tree-from-the-time-of-jesus-rises-from-the-dead">
+                    <div>
+                      <div>
+                        <div>
+                          <img/>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3>
+                        Extinct tree from the time of Jesus rises from the dead
+                      </h3>
+                    </div>
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <a href="/reel/video/p09312qg/why-the-swedes-love-doing-something-that-americans-hate">
+                    <div>
+                      <div>
+                        <div>
+                          <img/>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3>
+                        Why the Swedes love doing something that Americans hate
+                      </h3>
+                    </div>
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <a href="/reel/video/p097w5p3/the-mystery-of-siberia-s-exploding-craters">
+                    <div>
+                      <div>
+                        <div>
+                          <img/>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3>
+                        The explosive mystery hidden under northern Russia
+                      </h3>
+                    </div>
+                  </a>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div></div>
+          </div>
+        </section>
+        <div>
+          <div>
+            <div>
+              <script></script>
+            </div>
+          </div>
+        </div>
+        <section>
+          <h2>
+            <span>
+              Editor’s Picks
+            </span>
+          </h2>
+          <div>
+            <div>
+              <div>
+                <ul>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/travel/article/20210721-switzerlands-gravity-defying-solution">
+                            Switzerland's gravity-defying solution
+                          </a>
+                        </h3>
+                        <p>
+                          These ancient wooden waterways saved Switzerland from drought
+                        </p>
+                        <a href="https://www.bbc.com/travel">
+                          Travel
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/travel/article/20210721-switzerlands-gravity-defying-solution">
+                        Switzerland's gravity-defying solution
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/worklife/article/20210518-the-hidden-load-how-thinking-of-everything-holds-mums-back">
+                            How gender equality is moving backwards
+                          </a>
+                        </h3>
+                        <p>
+                          How 'thinking of everything' at home leaves mothers behind
+                        </p>
+                        <a href="http://www.bbc.com/worklife">
+                          Worklife
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/worklife/article/20210518-the-hidden-load-how-thinking-of-everything-holds-mums-back">
+                        How gender equality is moving backwards
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/culture/article/20211215-the-best-films-of-2021">
+                            The 20 best films of 2021
+                          </a>
+                        </h3>
+                        <p>
+                          Comedy, drama and animation
+                        </p>
+                        <a href="http://www.bbc.com/culture">
+                          Culture
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/culture/article/20211215-the-best-films-of-2021">
+                        The 20 best films of 2021
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/future/article/20210622-how-shipwrecked-yeasts-could-change-the-taste-of-your-beer">
+                            The treasure inside 120-year-old beer
+                          </a>
+                        </h3>
+                        <p>
+                          How forgotten yeast strains are being resurrected to shake up brewing
+                        </p>
+                        <a href="http://www.bbc.com/future">
+                          Future
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/future/article/20210622-how-shipwrecked-yeasts-could-change-the-taste-of-your-beer">
+                        The treasure inside 120-year-old beer
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.co.uk/food/collections/christmas_eve_classics">
+                            Easy Christmas Eve recipes
+                          </a>
+                        </h3>
+                        <p>
+                          Some classic dishes to enjoy with friends and family
+                        </p>
+                        <a href="https://www.bbc.co.uk/food/">
+                          Food
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.co.uk/food/collections/christmas_eve_classics">
+                        Easy Christmas Eve recipes
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/sport/football/59696612">
+                            The striker whose name means failure - and how he made it a success
+                          </a>
+                        </h3>
+                        <p>
+                          Frank Mill is known as the man behind the 'miss of the century'
+                        </p>
+                        <a href="http://www.bbc.com/sport">
+                          Sport
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/sport/football/59696612">
+                        The striker whose name means failure - and how he made it a success
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.co.uk/programmes/articles/2zRf7NW373WJP2nmVJDZTBT/the-mezzotint-mark-gatiss-on-why-ghost-stories-are-still-perfect-for-christmas">
+                            Why ghost stories are perfect for Christmas
+                          </a>
+                        </h3>
+                        <p>
+                          In recent years Mark Gatiss has revived the TV Christmas ghost story tradition
+                        </p>
+                        <a href="https://www.bbc.co.uk/programmes/p01yqnn8">
+                          Arts
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.co.uk/programmes/articles/2zRf7NW373WJP2nmVJDZTBT/the-mezzotint-mark-gatiss-on-why-ghost-stories-are-still-perfect-for-christmas">
+                        Why ghost stories are perfect for Christmas
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <div>
+                  <h2>
+                    Latest Business News
+                  </h2>
+                  <ul>
+                    <li>
+                      <a href="/news/uk-59790443">
+                        <span>
+                          1
+                        </span>
+                        <h3>
+                          Trump golf resorts claimed over £3m in furlough
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/news/business-59777577">
+                        <span>
+                          2
+                        </span>
+                        <h3>
+                          Selfridges sold for £4bn to Thai-Austrian alliance
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/news/technology-59781310">
+                        <span>
+                          3
+                        </span>
+                        <h3>
+                          Tesla disables gaming while driving feature
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/news/technology-59768617">
+                        <span>
+                          4
+                        </span>
+                        <h3>
+                          TikTok ousts Google to be top online destination
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/news/business-59761292">
+                        <span>
+                          5
+                        </span>
+                        <h3>
+                          Brexit: A year on and the trading impact is showing
+                        </h3>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <div>
+                    <script></script>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div>
+            <div>
+              <a href="/future/future-planet">
+                <div>
+                  <div>
+                    <span>
+                      Future Planet
+                    </span>
+                  </div>
+                  <div>
+                    <div>
+                      <div></div>
+                      <div>
+                        <svg>
+                          <line></line>
+                          <polyline></polyline>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <p>
+              Solutions for a sustainable world
+            </p>
+            <ul>
+              <li>
+                <div>
+                  <a href="/future/article/20210126-the-richest-human-made-marine-habitats-in-the-world">
+                    <div>
+                      <div>
+                        <div>
+                          <img/>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3>
+                        The new use for abandoned oil rigs
+                      </h3>
+                    </div>
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <a href="/future/article/20211215-the-buildings-made-from-rubbish">
+                    <div>
+                      <div>
+                        <div>
+                          <img/>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3>
+                        The sector behind a third of our waste
+                      </h3>
+                    </div>
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <a href="/future/article/20211207-the-legal-battle-against-climate-change">
+                    <div>
+                      <div>
+                        <div>
+                          <img/>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3>
+                        The new weapon against climate change
+                      </h3>
+                    </div>
+                  </a>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div></div>
+          </div>
+        </section>
+        <section>
+          <div>
+            <ul>
+              <li>
+                <div>
+                  <h2>
+                    <a href="https://www.bbcselect.com/queen-victorias-children/?[...]">
+                      Select
+                    </a>
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <a href="https://www.bbcselect.com/queen-victorias-children/?[...]">
+                          Now Showing
+                        </a>
+                        <h3>
+                          <a href="https://www.bbcselect.com/queen-victorias-children/?[...]">
+                            How Queen Victoria used Christmas to hide the truth
+                          </a>
+                        </h3>
+                      </div>
+                      <a href="https://www.bbcselect.com/queen-victorias-children/?[...]">
+                        How Queen Victoria used Christmas to hide the truth
+                      </a>
+                    </div>
+                  </div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <script></script>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h2>
+                    ADVERTISEMENT
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <script></script>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h2>
+                    <a href="https://www.bbc.com/news/business-33712313">
+                      CEO Secrets
+                    </a>
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <a href="/news/business">
+                          Business
+                        </a>
+                        <h3>
+                          <a href="https://www.bbc.com/news/business-59654421">
+                            'Don't overthink, fail fast and move on'
+                          </a>
+                        </h3>
+                      </div>
+                      <a href="https://www.bbc.com/news/business-59654421">
+                        'Don't overthink, fail fast and move on'
+                      </a>
+                    </div>
+                  </div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <script></script>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </section>
+        <section>
+          <h2>
+            <span>
+              Featured video
+            </span>
+          </h2>
+          <div>
+            <div>
+              <div>
+                <div></div>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <span></span>
+                  <div>
+                    <h3>
+                      <a href="/news/uk-59790602">
+                        The Queen’s Christmas message 2021
+                      </a>
+                    </h3>
+                    <p>
+                      The Queen pays tribute to her late husband, Prince Philip, who died earlier this year.
+                    </p>
+                    <a href="/news/uk">
+                      UK
+                    </a>
+                  </div>
+                  <a href="/news/uk-59790602">
+                    The Queen’s Christmas message 2021
+                  </a>
+                </div>
+              </div>
+              <div>
+                <ul>
+                  <li>
+                    <a href="#[...]">
+                      Recommended
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#[...]">
+                      Most Watched
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#[...]">
+                      Latest
+                    </a>
+                  </li>
+                </ul>
+                <div>
+                  <ul>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/uk-59790602">
+                              The Queen’s Christmas message 2021
+                            </a>
+                          </h3>
+                          <a href="/news/uk">
+                            UK
+                          </a>
+                        </div>
+                        <a href="/news/uk-59790602">
+                          The Queen’s Christmas message 2021
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-59692270">
+                              ICYMI: Eel-powered Christmas lights and a...
+                            </a>
+                          </h3>
+                          <a href="/news/world">
+                            World
+                          </a>
+                        </div>
+                        <a href="/news/world-59692270">
+                          ICYMI: Eel-powered Christmas lights and a Messi mural
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-asia-india-59503874">
+                              Curious leopard enters classroom in India
+                            </a>
+                          </h3>
+                          <a href="/news/world/asia/india">
+                            India
+                          </a>
+                        </div>
+                        <a href="/news/world-asia-india-59503874">
+                          Curious leopard enters classroom in India
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/science-environment-59790601">
+                              'Back to the birth of the Universe'
+                            </a>
+                          </h3>
+                          <a href="/news/science_and_environment">
+                            Science &amp; Environment
+                          </a>
+                        </div>
+                        <a href="/news/science-environment-59790601">
+                          'Back to the birth of the Universe'
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-59790251">
+                              Pope's Christmas Day message
+                            </a>
+                          </h3>
+                          <a href="/news/world">
+                            World
+                          </a>
+                        </div>
+                        <a href="/news/world-59790251">
+                          Pope's Christmas Day message
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-us-canada-40362067">
+                              Ready for the total solar eclipse?
+                            </a>
+                          </h3>
+                          <a href="/news/world/us_and_canada">
+                            US &amp; Canada
+                          </a>
+                        </div>
+                        <a href="/news/world-us-canada-40362067">
+                          Ready for the total solar eclipse?
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-middle-east-40369547">
+                              Great Mosque of al-Nuri destroyed
+                            </a>
+                          </h3>
+                          <a href="/news/world/middle_east">
+                            Middle East
+                          </a>
+                        </div>
+                        <a href="/news/world-middle-east-40369547">
+                          Great Mosque of al-Nuri destroyed
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-middle-east-40366136">
+                              Video 'shows Mosul mosque's destruction'
+                            </a>
+                          </h3>
+                          <a href="/news/world/middle_east">
+                            Middle East
+                          </a>
+                        </div>
+                        <a href="/news/world-middle-east-40366136">
+                          Video 'shows Mosul mosque's destruction'
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/uk-england-40058866">
+                              The rise of the female fitness model
+                            </a>
+                          </h3>
+                          <a href="/news/england">
+                            England
+                          </a>
+                        </div>
+                        <a href="/news/uk-england-40058866">
+                          The rise of the female fitness model
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-us-canada-40360953">
+                              Car burglar caught with his pants down
+                            </a>
+                          </h3>
+                          <a href="/news/world/us_and_canada">
+                            US &amp; Canada
+                          </a>
+                        </div>
+                        <a href="/news/world-us-canada-40360953">
+                          Car burglar caught with his pants down
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-59777677">
+                              Deck the homes! Festive lights attract...
+                            </a>
+                          </h3>
+                          <a href="/news/world">
+                            World
+                          </a>
+                        </div>
+                        <a href="/news/world-59777677">
+                          Deck the homes! Festive lights attract visitors
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/uk-england-leicestershire-59758387">
+                              Tractor squad gets Christmas glow up for...
+                            </a>
+                          </h3>
+                          <a href="/news/england/leicester">
+                            Leicester
+                          </a>
+                        </div>
+                        <a href="/news/uk-england-leicestershire-59758387">
+                          Tractor squad gets Christmas glow up for charity
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/uk-59768669">
+                              When Wales woke up to a very white Christmas
+                            </a>
+                          </h3>
+                          <a href="/news/uk">
+                            UK
+                          </a>
+                        </div>
+                        <a href="/news/uk-59768669">
+                          When Wales woke up to a very white Christmas
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/uk-england-london-59742894">
+                              Choir creates multi-sensory Christmas carol
+                            </a>
+                          </h3>
+                          <a href="/news/england/london">
+                            London
+                          </a>
+                        </div>
+                        <a href="/news/uk-england-london-59742894">
+                          Choir creates multi-sensory Christmas carol
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-us-canada-59776920">
+                              Key moments in US 'Taser mix-up' ex-officer...
+                            </a>
+                          </h3>
+                          <a href="/news/world/us_and_canada">
+                            US &amp; Canada
+                          </a>
+                        </div>
+                        <a href="/news/world-us-canada-59776920">
+                          Key moments in US 'Taser mix-up' ex-officer trial
+                        </a>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div>
+            <div>
+              <h2>
+                <a href="http://www.bbc.co.uk/worldserviceradio/">
+                  BBC World Service
+                </a>
+              </h2>
+              <div>
+                <i></i>
+                <a href="http://www.bbc.co.uk/programmes/p016tmg0">
+                  <span>
+                    On Air:
+                  </span>
+                  <span>
+                    The Arts Hour
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div>
+          <div>
+            <div>
+              <script></script>
+            </div>
+          </div>
+        </div>
+        <section>
+          <h2>
+            <span>
+              More around the BBC
+            </span>
+          </h2>
+          <div>
+            <div>
+              <div>
+                <ul>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="/news/entertainment-arts-59762286">
+                            LadBaby score historic fourth Christmas number one
+                          </a>
+                        </h3>
+                        <p>
+                          They surpass the Beatles and the Spice Girls as the act with the most festive chart-toppers in a...
+                        </p>
+                        <a href="/news/entertainment_and_arts">
+                          Entertainment &amp; Arts
+                        </a>
+                      </div>
+                      <a href="/news/entertainment-arts-59762286">
+                        LadBaby score historic fourth Christmas number one
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <span></span>
+                      <div>
+                        <h3>
+                          <a href="/news/technology-59785567">
+                            Eco-laundry hopes to clean up how we wash clothes
+                          </a>
+                        </h3>
+                        <a href="/news/technology">
+                          Technology
+                        </a>
+                      </div>
+                      <a href="/news/technology-59785567">
+                        Eco-laundry hopes to clean up how we wash clothes
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="/news/science-environment-59741723">
+                            Ancient mass migration transformed Britons' DNA
+                          </a>
+                        </h3>
+                        <a href="/news/science_and_environment">
+                          Science &amp; Environment
+                        </a>
+                      </div>
+                      <a href="/news/science-environment-59741723">
+                        Ancient mass migration transformed Britons' DNA
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.co.uk/news/business-59730492">
+                            Business Review of 2021: Climate change and Covid
+                          </a>
+                        </h3>
+                        <a href="http://www.bbc.com/news/business/">
+                          Business
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.co.uk/news/business-59730492">
+                        Business Review of 2021: Climate change and Covid
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="/news/health-59761537">
+                            Global vaccine rollout a stain on our soul - Brown
+                          </a>
+                        </h3>
+                        <a href="/news/health">
+                          Health
+                        </a>
+                      </div>
+                      <a href="/news/health-59761537">
+                        Global vaccine rollout a stain on our soul - Brown
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="/news/health-59769969">
+                            Omicron up to 70% less likely to need hospital care
+                          </a>
+                        </h3>
+                        <a href="/news/health">
+                          Health
+                        </a>
+                      </div>
+                      <a href="/news/health-59769969">
+                        Omicron up to 70% less likely to need hospital care
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="/news/science-environment-59744280">
+                            Mother seals 'tune in' to pup's voice
+                          </a>
+                        </h3>
+                        <a href="/news/science_and_environment">
+                          Science &amp; Environment
+                        </a>
+                      </div>
+                      <a href="/news/science-environment-59744280">
+                        Mother seals 'tune in' to pup's voice
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <div>
+                  <h2>
+                    <span>
+                      From Our
+                    </span>
+                    Correspondents
+                  </h2>
+                  <ul>
+                    <li>
+                      <a href="https://www.bbc.com/news/health-59769967">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          Omicron: Good news, bad news and what it all means
+                          <span>
+                            By James Gallager
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/science-environment-59725597">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          A mission to the space between the stars
+                          <span>
+                            By Jonathan Amos
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/uk-scotland-scotland-business-59675611">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          What is behind home price inflation?
+                          <span>
+                            By Douglas Fraser
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/health-59639973">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          Why do boosters work if two doses struggle?
+                          <span>
+                            By James Gallagher
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/science-environment-59644494">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          Antarctic glacier heading for dramatic change
+                          <span>
+                            By Jonathan Amos
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/uk-wales-59629727">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          Drama company aims to be biggest in Europe
+                          <span>
+                            By Huw Thomas
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/health-59615005">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          Two vaccine doses don't stop you catching Omicron
+                          <span>
+                            By James Gallager
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/uk-politics-59603553">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          Why it matters No 10's press chief was at the party
+                          <span>
+                            By Laura Kuenssberg
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div>
+            <ul>
+              <li>
+                <div>
+                  <h2>
+                    <a href="https://www.bbc.com/news/business-11428889">
+                      Technology of Business
+                    </a>
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/news/business-59576867">
+                            Miners experiment with hydrogen to power giant trucks
+                          </a>
+                        </h3>
+                        <a href="/news/business">
+                          Business
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/news/business-59576867">
+                        Miners experiment with hydrogen to power giant trucks
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <script></script>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h2>
+                    <a href="https://www.bbc.com/future/change-agents">
+                      Change Agents
+                    </a>
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/future/article/20211215-the-flying-doctors-delivering-vaccines">
+                            The 'flying doctors' saving lives
+                          </a>
+                        </h3>
+                        <a href="http://www.bbc.com/future">
+                          Future
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/future/article/20211215-the-flying-doctors-delivering-vaccines">
+                        The 'flying doctors' saving lives
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </section>
+        <section>
+          <div>
+            <div></div>
+            <h2>
+              <a href="/news/in_pictures">
+                World in pictures
+              </a>
+            </h2>
+          </div>
+          <div>
+            <ul>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <span></span>
+                  <div>
+                    <h3>
+                      <a href="/news/uk-england-essex-59755777">
+                        Photographer paints Christmas scenes in light
+                      </a>
+                    </h3>
+                    <a href="/news/england/essex">
+                      Essex
+                    </a>
+                  </div>
+                  <a href="/news/uk-england-essex-59755777">
+                    Photographer paints Christmas scenes in light
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <span></span>
+                  <div>
+                    <h3>
+                      <a href="/news/world-africa-59701734">
+                        Africa's top shots: Drumming, leaping and smiling
+                      </a>
+                    </h3>
+                    <a href="/news/world/africa">
+                      Africa
+                    </a>
+                  </div>
+                  <a href="/news/world-africa-59701734">
+                    Africa's top shots: Drumming, leaping and smiling
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <span></span>
+                  <div>
+                    <h3>
+                      <a href="/news/uk-england-merseyside-59743605">
+                        Photos found in skip show 'mysterious' man's life
+                      </a>
+                    </h3>
+                    <a href="/news/england/merseyside">
+                      Liverpool
+                    </a>
+                  </div>
+                  <a href="/news/uk-england-merseyside-59743605">
+                    Photos found in skip show 'mysterious' man's life
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <span></span>
+                  <div>
+                    <h3>
+                      <a href="/news/in-pictures-59740104">
+                        In pictures: Seven days of isolation
+                      </a>
+                    </h3>
+                    <a href="/news/in_pictures">
+                      In Pictures
+                    </a>
+                  </div>
+                  <a href="/news/in-pictures-59740104">
+                    In pictures: Seven days of isolation
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <span></span>
+                  <div>
+                    <h3>
+                      <a href="/news/uk-england-norfolk-59728244">
+                        'Ghost rainbows' thrill coastal weather watchers
+                      </a>
+                    </h3>
+                    <a href="/news/england/norfolk">
+                      Norfolk
+                    </a>
+                  </div>
+                  <a href="/news/uk-england-norfolk-59728244">
+                    'Ghost rainbows' thrill coastal weather watchers
+                  </a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </section>
+        <section>
+          <h2>
+            <a href="/worldserviceradio">
+              BBC in other languages
+            </a>
+          </h2>
+          <div>
+            <div>
+              <div>
+                <ul>
+                  <li>
+                    <h3>
+                      <a href="/persian/">
+                        Persian
+                      </a>
+                    </h3>
+                    <p>
+                      <a href="/persian/world-59788032">
+                        تلسکوپ جیمز وب با پرتاب به فضا تاریخ‌ساز شد
+                      </a>
+                    </p>
+                  </li>
+                  <li>
+                    <h3>
+                      <a href="/mundo/">
+                        Spanish
+                      </a>
+                    </h3>
+                    <p>
+                      <a href="/mundo/noticias-59771544">
+                        El "último ciudadano soviético": Sergei Krikalev, el cosmonauta abandonado en el espacio mientras la Unión Soviética colapsaba
+                      </a>
+                    </p>
+                  </li>
+                  <li>
+                    <h3>
+                      <a href="/urdu/">
+                        Urdu
+                      </a>
+                    </h3>
+                    <p>
+                      <a href="/urdu/world-59788784">
+                        اومیکرون کے باعث ہزاروں پروازیں منسوخ، کرسمس پر پیاروں سے ملنے کو بے تاب افراد مشکل میں
+                      </a>
+                    </p>
+                  </li>
+                  <li>
+                    <h3>
+                      <a href="/vietnamese/">
+                        Vietnamese
+                      </a>
+                    </h3>
+                    <p>
+                      <a href="/vietnamese/world-59789811">
+                        Chùm ảnh: Thế giới đón Giáng sinh 2021
+                      </a>
+                    </p>
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <h2>
+                  <a href="/ws/languages">
+                    More Languages
+                  </a>
+                </h2>
+                <ul>
+                  <li>
+                    <a href="/arabic/">
+                      <span>
+                        Arabic
+                      </span>
+                      <span>
+                        عربي
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/azeri/">
+                      <span>
+                        Azeri
+                      </span>
+                      <span>
+                        AZƏRBAYCAN
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/bengali/">
+                      <span>
+                        Bangla
+                      </span>
+                      <span>
+                        বাংলা
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/burmese/">
+                      <span>
+                        Burmese
+                      </span>
+                      <span>
+                        မြန်မာ
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/zhongwen/simp/">
+                      <span>
+                        Chinese
+                      </span>
+                      <span>
+                        中文网
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/afrique/">
+                      <span>
+                        French
+                      </span>
+                      <span>
+                        AFRIQUE
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/hausa/">
+                      <span>
+                        Hausa
+                      </span>
+                      <span>
+                        HAUSA
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/hindi/">
+                      <span>
+                        Hindi
+                      </span>
+                      <span>
+                        हिन्दी
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/indonesia/">
+                      <span>
+                        Indonesian
+                      </span>
+                      <span>
+                        INDONESIA
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/japanese/">
+                      <span>
+                        Japanese
+                      </span>
+                      <span>
+                        日本語
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/gahuza/">
+                      <span>
+                        Kinyarwanda
+                      </span>
+                      <span>
+                        GAHUZA
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/gahuza/">
+                      <span>
+                        Kirundi
+                      </span>
+                      <span>
+                        KIRUNDI
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/kyrgyz/">
+                      <span>
+                        Kyrgyz
+                      </span>
+                      <span>
+                        Кыргыз
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/marathi/">
+                      <span>
+                        Marathi
+                      </span>
+                      <span>
+                        मराठी
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/nepali/">
+                      <span>
+                        Nepali
+                      </span>
+                      <span>
+                        नेपाली
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/pashto/">
+                      <span>
+                        Pashto
+                      </span>
+                      <span>
+                        پښتو
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/persian/">
+                      <span>
+                        Persian
+                      </span>
+                      <span>
+                        فارسی
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/portuguese/">
+                      <span>
+                        Portuguese
+                      </span>
+                      <span>
+                        BRASIL
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/russian/">
+                      <span>
+                        Russian
+                      </span>
+                      <span>
+                        НА РУССКОМ
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/sinhala/">
+                      <span>
+                        Sinhala
+                      </span>
+                      <span>
+                        සිංහල
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/somali/">
+                      <span>
+                        Somali
+                      </span>
+                      <span>
+                        SOMALI
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/mundo/">
+                      <span>
+                        Spanish
+                      </span>
+                      <span>
+                        MUNDO
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/swahili/">
+                      <span>
+                        Swahili
+                      </span>
+                      <span>
+                        SWAHILI
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/tamil/">
+                      <span>
+                        Tamil
+                      </span>
+                      <span>
+                        தமிழ்
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/turkce/">
+                      <span>
+                        Turkish
+                      </span>
+                      <span>
+                        TÜRKÇE
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/ukrainian/">
+                      <span>
+                        Ukrainian
+                      </span>
+                      <span>
+                        УКРАЇНСЬКA
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/urdu/">
+                      <span>
+                        Urdu
+                      </span>
+                      <span>
+                        اردو
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/uzbek/">
+                      <span>
+                        Uzbek
+                      </span>
+                      <span>
+                        O'ZBEK
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/vietnamese/">
+                      <span>
+                        Vietnamese
+                      </span>
+                      <span>
+                        TIẾNG VIỆT
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <script></script>
+      <script></script>
+    </div>
+    <div>
+      <div></div>
+      <aside>
+        <div>
+          <div>
+            <h2>
+              Explore the BBC
+            </h2>
+            <div>
+              <ul>
+                <li>
+                  <a href="https://www.bbc.co.uk">
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/news">
+                    News
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/sport">
+                    Sport
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/weather">
+                    Weather
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/iplayer">
+                    iPlayer
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/sounds">
+                    Sounds
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/cbbc">
+                    CBBC
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/cbeebies">
+                    CBeebies
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/food">
+                    Food
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/bitesize">
+                    Bitesize
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/arts">
+                    Arts
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/taster">
+                    Taster
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/news/localnews">
+                    Local
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/bbcthree">
+                    Three
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </aside>
+      <footer>
+        <div>
+          <script></script>
+          <div>
+            <div>
+              <ul>
+                <li>
+                  <a href="https://www.bbc.co.uk/usingthebbc/terms/">
+                    Terms of Use
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/aboutthebbc">
+                    About the BBC
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/usingthebbc/privacy/">
+                    Privacy Policy
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/usingthebbc/cookies/">
+                    Cookies
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/accessibility/">
+                    Accessibility Help
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/guidance">
+                    Parental Guidance
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/contact">
+                    Contact the BBC
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.bbc.co.uk/bbcnewsletter">
+                    Get Personalised Newsletters
+                  </a>
+                </li>
+              </ul>
+              <small>
+                <em>
+                  Copyright © 2021 BBC.
+                </em>
+                The BBC is not responsible for the content of external sites.
+                <span>
+                  <a href="https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links">
+                    Read about our approach to external linking.
+                  </a>
+                </span>
+              </small>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <script></script>
+    <noscript>
+      <img/>
+    </noscript>
+  </body>
+</HTML>
+
+"""
