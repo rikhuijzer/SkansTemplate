@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - shell: julia --color=yes {0}
-        run: 'using Pkg; Pkg.add("Skans")'
+        run: 'using Pkg; Pkg.add(; name="Skans", version="1")'
 
       - shell: julia --color=yes {0}
         env:
