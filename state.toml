@@ -162,6 +162,11 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/news">
+                    <svg>
+                      <path></path>
+                      <path></path>
+                      <path></path>
+                    </svg>
                     <span>
                       News
                     </span>
@@ -169,6 +174,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/sport">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Sport
                     </span>
@@ -176,6 +188,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/weather">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Weather
                     </span>
@@ -183,6 +202,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/iplayer">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       iPlayer
                     </span>
@@ -190,6 +216,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/sounds">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Sounds
                     </span>
@@ -197,6 +230,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/bitesize">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Bitesize
                     </span>
@@ -355,6 +395,11 @@
             </li>
             <li>
               <a href="https://www.bbc.co.uk/news">
+                <svg>
+                  <path></path>
+                  <path></path>
+                  <path></path>
+                </svg>
                 <span>
                   News
                 </span>
@@ -362,6 +407,13 @@
             </li>
             <li>
               <a href="https://www.bbc.co.uk/sport">
+                <svg>
+                  <g>
+                    <path></path>
+                    <path></path>
+                    <path></path>
+                  </g>
+                </svg>
                 <span>
                   Sport
                 </span>
@@ -369,6 +421,13 @@
             </li>
             <li>
               <a href="https://www.bbc.co.uk/weather">
+                <svg>
+                  <g>
+                    <path></path>
+                    <path></path>
+                    <path></path>
+                  </g>
+                </svg>
                 <span>
                   Weather
                 </span>
@@ -376,6 +435,13 @@
             </li>
             <li>
               <a href="https://www.bbc.co.uk/iplayer">
+                <svg>
+                  <g>
+                    <path></path>
+                    <path></path>
+                    <path></path>
+                  </g>
+                </svg>
                 <span>
                   iPlayer
                 </span>
@@ -383,6 +449,13 @@
             </li>
             <li>
               <a href="https://www.bbc.co.uk/sounds">
+                <svg>
+                  <g>
+                    <path></path>
+                    <path></path>
+                    <path></path>
+                  </g>
+                </svg>
                 <span>
                   Sounds
                 </span>
@@ -390,6 +463,13 @@
             </li>
             <li>
               <a href="https://www.bbc.co.uk/bitesize">
+                <svg>
+                  <g>
+                    <path></path>
+                    <path></path>
+                    <path></path>
+                  </g>
+                </svg>
                 <span>
                   Bitesize
                 </span>
@@ -539,19 +619,19 @@
                   </div>
                   <div>
                     <h3>
-                      <a href="/news/world-us-canada-61489046">
-                        Trump-backed 'Dr Oz' in cliffhanger vote count
+                      <a href="/news/live/world-europe-61461805">
+                        Nato needed now more than ever - Biden
                       </a>
                     </h3>
                     <p>
-                      Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy.
+                      The US President gives strong backing to plans by Finland and Sweden to join Nato.
                     </p>
-                    <a href="/news/world/us_and_canada">
-                      US &amp; Canada
+                    <a href="/news/world/europe">
+                      Europe
                     </a>
                   </div>
-                  <a href="/news/world-us-canada-61489046">
-                    Trump-backed 'Dr Oz' in cliffhanger vote count
+                  <a href="/news/live/world-europe-61461805">
+                    Nato needed now more than ever - Biden
                   </a>
                 </div>
               </li>
@@ -566,16 +646,40 @@
                   </div>
                   <div>
                     <h3>
-                      <a href="https://www.bbc.com/news/world-europe-61496428">
-                        Russian soldier pleads guilty in war crimes trial
+                      <a href="https://www.bbc.com/news/uk-61508520">
+                        MI5 agent used secret status to terrorise girlfriend
+                      </a>
+                    </h3>
+                    <a href="/news/uk">
+                      UK
+                    </a>
+                  </div>
+                  <a href="https://www.bbc.com/news/uk-61508520">
+                    MI5 agent used secret status to terrorise girlfriend
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3>
+                      <a href="https://www.bbc.com/news/world-europe-61508922">
+                        Russia's laser weapon claim derided as propaganda
                       </a>
                     </h3>
                     <a href="/news/world/europe">
                       Europe
                     </a>
                   </div>
-                  <a href="https://www.bbc.com/news/world-europe-61496428">
-                    Russian soldier pleads guilty in war crimes trial
+                  <a href="https://www.bbc.com/news/world-europe-61508922">
+                    Russia's laser weapon claim derided as propaganda
                   </a>
                 </div>
               </li>
@@ -590,64 +694,40 @@
                   </div>
                   <div>
                     <h3>
-                      <a href="https://www.bbc.com/sport/football/61492703">
-                        US equal-pay deal could 'change game globally'
-                      </a>
-                    </h3>
-                    <a href="/sport/football">
-                      Football
-                    </a>
-                  </div>
-                  <a href="https://www.bbc.com/sport/football/61492703">
-                    US equal-pay deal could 'change game globally'
-                  </a>
-                </div>
-              </li>
-              <li>
-                <div>
-                  <div>
-                    <div>
-                      <div>
-                        <img/>
-                      </div>
-                    </div>
-                  </div>
-                  <div>
-                    <h3>
-                      <a href="https://www.bbc.com/travel/article/20220517-palaus-world-first-good-traveller-incentive">
-                        The island rewarding 'good travellers'
-                      </a>
-                    </h3>
-                    <a href="https://www.bbc.com/travel">
-                      Travel
-                    </a>
-                  </div>
-                  <a href="https://www.bbc.com/travel/article/20220517-palaus-world-first-good-traveller-incentive">
-                    The island rewarding 'good travellers'
-                  </a>
-                </div>
-              </li>
-              <li>
-                <div>
-                  <div>
-                    <div>
-                      <div>
-                        <img/>
-                      </div>
-                    </div>
-                  </div>
-                  <div>
-                    <h3>
-                      <a href="https://www.bbc.com/worklife/article/20220517-the-link-between-imposter-syndrome-and-burnout">
-                        How imposter syndrome fuels burnout
+                      <a href="https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office">
+                        The end of 'mandatory office fun'
                       </a>
                     </h3>
                     <a href="http://www.bbc.com/worklife">
                       Worklife
                     </a>
                   </div>
-                  <a href="https://www.bbc.com/worklife/article/20220517-the-link-between-imposter-syndrome-and-burnout">
-                    How imposter syndrome fuels burnout
+                  <a href="https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office">
+                    The end of 'mandatory office fun'
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <img/>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <h3>
+                      <a href="https://www.bbc.com/future/article/20220518-why-you-should-embrace-stinging-nettles">
+                        Why you should embrace stinging nettles
+                      </a>
+                    </h3>
+                    <a href="http://www.bbc.com/future">
+                      Future
+                    </a>
+                  </div>
+                  <a href="https://www.bbc.com/future/article/20220518-why-you-should-embrace-stinging-nettles">
+                    Why you should embrace stinging nettles
                   </a>
                 </div>
               </li>
@@ -691,46 +771,19 @@
                             </div>
                             <div>
                               <h3>
-                                <a href="/news/world-us-canada-61488082">
-                                  Trump-backed Gen Z congressman ousted amid scandal
+                                <a href="/news/world-europe-61511640">
+                                  Widow confronts Russian soldier accused of war crime
                                 </a>
                               </h3>
                               <p>
-                                Madison Cawthorn loses a bid to renew his title as America's youngest congressman.
-                              </p>
-                              <a href="/news/world/us_and_canada">
-                                US &amp; Canada
-                              </a>
-                            </div>
-                            <a href="/news/world-us-canada-61488082">
-                              Trump-backed Gen Z congressman ousted amid scandal
-                            </a>
-                          </div>
-                        </li>
-                        <li>
-                          <div>
-                            <div>
-                              <div>
-                                <div>
-                                  <img/>
-                                </div>
-                              </div>
-                            </div>
-                            <div>
-                              <h3>
-                                <a href="/news/live/world-europe-61461805">
-                                  EU pledges €300bn to end Russian gas reliance
-                                </a>
-                              </h3>
-                              <p>
-                                The bloc will source energy from other countries, and boost renewables, to replace Russian imports by 2027.
+                                The 21-year-old serviceman has pled guilty to killing her husband in a village in Ukraine's north-east.
                               </p>
                               <a href="/news/world/europe">
                                 Europe
                               </a>
                             </div>
-                            <a href="/news/live/world-europe-61461805">
-                              EU pledges €300bn to end Russian gas reliance
+                            <a href="/news/world-europe-61511640">
+                              Widow confronts Russian soldier accused of war crime
                             </a>
                           </div>
                         </li>
@@ -745,19 +798,47 @@
                             </div>
                             <div>
                               <h3>
-                                <a href="https://www.bbc.co.uk/news/world-europe-61480988">
-                                  Mariupol: 80 days that left a flourishing city in ruins
+                                <a href="/news/health-61506562">
+                                  Monkeypox investigated in Europe, US and Canada
                                 </a>
                               </h3>
                               <p>
-                                The Ukrainian port which has seen some of the most intense fighting is now under Russian control.
+                                Cases of the rare disease are now confirmed in four European countries, health authorities say.
                               </p>
-                              <a href="http://www.bbc.com/news">
-                                News
+                              <a href="/news/health">
+                                Health
                               </a>
                             </div>
-                            <a href="https://www.bbc.co.uk/news/world-europe-61480988">
-                              Mariupol: 80 days that left a flourishing city in ruins
+                            <a href="/news/health-61506562">
+                              Monkeypox investigated in Europe, US and Canada
+                            </a>
+                          </div>
+                        </li>
+                        <li>
+                          <div>
+                            <div>
+                              <div>
+                                <div>
+                                  <img/>
+                                </div>
+                              </div>
+                            </div>
+                            <span></span>
+                            <div>
+                              <h3>
+                                <a href="/news/world-us-canada-61505050">
+                                  George W Bush's speech gaffe over 'Iraq invasion'
+                                </a>
+                              </h3>
+                              <p>
+                                The former US president corrected himself after saying Putin had invaded Iraq rather than Ukraine.
+                              </p>
+                              <a href="/news/world/us_and_canada">
+                                US &amp; Canada
+                              </a>
+                            </div>
+                            <a href="/news/world-us-canada-61505050">
+                              George W Bush's speech gaffe over 'Iraq invasion'
                             </a>
                           </div>
                         </li>
@@ -783,19 +864,19 @@
                             </div>
                             <div>
                               <h3>
-                                <a href="/sport/live/football/61456569">
-                                  Eintracht Frankfurt v Rangers - Europa League final build-up
+                                <a href="/sport/live/golf/61469695">
+                                  US PGA Championship round one - McIlroy leads as Woods falters
                                 </a>
                               </h3>
                               <p>
-                                All the build-up to the Europa League final as about 100,000 Rangers fans descend on Seville for the game against Eintracht Frankfurt.
+                                Follow live text commentary of round one of the US PGA Championship in Oklahoma where Tiger Woods and Rory McIlroy are among the early starters.
                               </p>
-                              <a href="/sport/football">
-                                Football
+                              <a href="/sport/golf">
+                                Golf
                               </a>
                             </div>
-                            <a href="/sport/live/football/61456569">
-                              Eintracht Frankfurt v Rangers - Europa League final build-up
+                            <a href="/sport/live/golf/61469695">
+                              US PGA Championship round one - McIlroy leads as Woods falters
                             </a>
                           </div>
                         </li>
@@ -810,19 +891,19 @@
                             </div>
                             <div>
                               <h3>
-                                <a href="/sport/football/61492696">
-                                  Gueye refused to wear PSG shirt with rainbow symbol
+                                <a href="/sport/cricket/61491807">
+                                  New injury rules England's Archer out for summer
                                 </a>
                               </h3>
                               <p>
-                                Paris St-Germain's Idrissa Gueye refused to play in a match to avoid wearing a rainbow symbol in support of LGBTQ+ rights BBC Sport understands.
+                                England fast bowler Jofra Archer will miss the entire season after suffering a stress fracture of the lower back.
                               </p>
-                              <a href="/sport/football">
-                                Football
+                              <a href="/sport/cricket">
+                                Cricket
                               </a>
                             </div>
-                            <a href="/sport/football/61492696">
-                              Gueye refused to wear PSG shirt with rainbow symbol
+                            <a href="/sport/cricket/61491807">
+                              New injury rules England's Archer out for summer
                             </a>
                           </div>
                         </li>
@@ -837,19 +918,19 @@
                             </div>
                             <div>
                               <h3>
-                                <a href="/sport/football/61497942">
-                                  Christensen's withdrawal 'not the first time'
+                                <a href="/sport/athletics/61511234">
+                                  Thompson-Herah pulls out of Birmingham showdown
                                 </a>
                               </h3>
                               <p>
-                                Chelsea boss Thomas Tuchel says Andreas Christensen's late withdrawal from the squad before the FA Cup final is "not the first time" he has felt unable to play this season.
+                                Jamaican double Olympic champion Elaine Thompson-Herah pulls out of Saturday's 100m meeting with Britain's Dina Asher-Smith in Birmingham
                               </p>
-                              <a href="/sport/football">
-                                Football
+                              <a href="/sport/athletics">
+                                Athletics
                               </a>
                             </div>
-                            <a href="/sport/football/61497942">
-                              Christensen's withdrawal 'not the first time'
+                            <a href="/sport/athletics/61511234">
+                              Thompson-Herah pulls out of Birmingham showdown
                             </a>
                           </div>
                         </li>
@@ -898,6 +979,24 @@
             <ul>
               <li>
                 <div>
+                  <a href="/reel/video/p0c7mwdn/are-we-entering-a-post-anthropocentric-era-">
+                    <div>
+                      <div>
+                        <div>
+                          <img/>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <h3>
+                        What would a post-anthropocentric world look like?
+                      </h3>
+                    </div>
+                  </a>
+                </div>
+              </li>
+              <li>
+                <div>
                   <a href="/reel/video/p0c5mwdb/the-truth-about-supplements-and-who-should-be-taking-them">
                     <div>
                       <div>
@@ -927,24 +1026,6 @@
                     <div>
                       <h3>
                         The shocking human experiment of a 19th Century doctor
-                      </h3>
-                    </div>
-                  </a>
-                </div>
-              </li>
-              <li>
-                <div>
-                  <a href="/reel/video/p0c6k16c/the-forgotten-genius-who-invented-our-future">
-                    <div>
-                      <div>
-                        <div>
-                          <img/>
-                        </div>
-                      </div>
-                    </div>
-                    <div>
-                      <h3>
-                        The forgotten genius who invented our future
                       </h3>
                     </div>
                   </a>
@@ -984,73 +1065,19 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="https://www.bbc.com/future/article/20220517-the-uncertain-fate-of-asias-monsoons">
-                            The tipping point for Asia's monsoons
+                          <a href="https://www.bbc.com/culture/article/20220518-how-fear-sex-and-power-shaped-ancient-mythology">
+                            How fear shaped ancient mythology
                           </a>
                         </h3>
                         <p>
-                          The mighty weather systems that dominate the Asian climate are changing
-                        </p>
-                        <a href="http://www.bbc.com/future">
-                          Future
-                        </a>
-                      </div>
-                      <a href="https://www.bbc.com/future/article/20220517-the-uncertain-fate-of-asias-monsoons">
-                        The tipping point for Asia's monsoons
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <div>
-                        <div>
-                          <div>
-                            <img/>
-                          </div>
-                        </div>
-                      </div>
-                      <div>
-                        <h3>
-                          <a href="https://www.bbc.com/travel/article/20220516-the-true-origin-of-french-macarons">
-                            The French macaron shrouded in secrecy
-                          </a>
-                        </h3>
-                        <p>
-                          The recipe hasn't changed since its invention 230 years ago
-                        </p>
-                        <a href="https://www.bbc.com/travel">
-                          Travel
-                        </a>
-                      </div>
-                      <a href="https://www.bbc.com/travel/article/20220516-the-true-origin-of-french-macarons">
-                        The French macaron shrouded in secrecy
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <div>
-                        <div>
-                          <div>
-                            <img/>
-                          </div>
-                        </div>
-                      </div>
-                      <div>
-                        <h3>
-                          <a href="https://www.bbc.com/culture/article/20220513-oksana-linde-and-the-forgotten-pioneers-of-electronic-music">
-                            Forgotten pioneers of electronic music
-                          </a>
-                        </h3>
-                        <p>
-                          Revealing the women composers who have been overlooked
+                          The goddesses who broke the rules of sex and power – and embodied our anxieties
                         </p>
                         <a href="http://www.bbc.com/culture">
                           Culture
                         </a>
                       </div>
-                      <a href="https://www.bbc.com/culture/article/20220513-oksana-linde-and-the-forgotten-pioneers-of-electronic-music">
-                        Forgotten pioneers of electronic music
+                      <a href="https://www.bbc.com/culture/article/20220518-how-fear-sex-and-power-shaped-ancient-mythology">
+                        How fear shaped ancient mythology
                       </a>
                     </div>
                   </li>
@@ -1092,19 +1119,19 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="https://www.bbc.com/news/entertainment-arts-61477368">
-                            Måneskin: 'We only slept at home 10 times last year'
+                          <a href="https://www.bbc.com/travel/article/20220518-japans-beloved-sweet-potato-vendors">
+                            Japan's simple, centuries-old snack
                           </a>
                         </h3>
                         <p>
-                          The Italian rock band relive the highs and lows of becoming a global success after winning...
+                          It's a straightforward street food with an iconic theme song
                         </p>
-                        <a href="/news/entertainment_and_arts">
-                          Entertainment &amp; Arts
+                        <a href="https://www.bbc.com/travel">
+                          Travel
                         </a>
                       </div>
-                      <a href="https://www.bbc.com/news/entertainment-arts-61477368">
-                        Måneskin: 'We only slept at home 10 times last year'
+                      <a href="https://www.bbc.com/travel/article/20220518-japans-beloved-sweet-potato-vendors">
+                        Japan's simple, centuries-old snack
                       </a>
                     </div>
                   </li>
@@ -1119,19 +1146,19 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="https://www.bbc.com/news/newsbeat-61494094">
-                            Pug health too poor to be 'considered typical dog'
+                          <a href="https://www.bbc.com/future/article/20220517-the-uncertain-fate-of-asias-monsoons">
+                            The tipping point for Asia's monsoons
                           </a>
                         </h3>
                         <p>
-                          New research has revealed the health of pugs is now different and largely worse than other dogs
+                          The mighty weather systems that dominate the Asian climate are changing
                         </p>
-                        <a href="/news/newsbeat">
-                          Newsbeat
+                        <a href="http://www.bbc.com/future">
+                          Future
                         </a>
                       </div>
-                      <a href="https://www.bbc.com/news/newsbeat-61494094">
-                        Pug health too poor to be 'considered typical dog'
+                      <a href="https://www.bbc.com/future/article/20220517-the-uncertain-fate-of-asias-monsoons">
+                        The tipping point for Asia's monsoons
                       </a>
                     </div>
                   </li>
@@ -1146,19 +1173,73 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="https://www.bbc.com/news/business-60566575">
-                            How Gen Z is hooked on cryptocurrency and NFTs
+                          <a href="https://www.bbc.com/news/uk-england-gloucestershire-61495849">
+                            UK's biggest EuroMillions winners go public
                           </a>
                         </h3>
                         <p>
-                          A growing number of young people are getting into crypto trading - despite the risks
+                          Joe and Jess Thwaite, from Gloucester, said the record £184m win will give them "time to dream"
+                        </p>
+                        <a href="http://www.bbc.com/news/uk">
+                          UK
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/news/uk-england-gloucestershire-61495849">
+                        UK's biggest EuroMillions winners go public
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/news/business-61503469">
+                            Leaky Gucci 'Sun umbrella' sparks China outcry
+                          </a>
+                        </h3>
+                        <p>
+                          Chinese social media users say they are shocked the £1,329 item will not stop rain
                         </p>
                         <a href="/news/business">
                           Business
                         </a>
                       </div>
-                      <a href="https://www.bbc.com/news/business-60566575">
-                        How Gen Z is hooked on cryptocurrency and NFTs
+                      <a href="https://www.bbc.com/news/business-61503469">
+                        Leaky Gucci 'Sun umbrella' sparks China outcry
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/news/world-asia-61506568">
+                            Women win damages over Japan exam discrimination
+                          </a>
+                        </h3>
+                        <p>
+                          Juntendo University in Tokyo set stricter requirements for female medical students in entrance exams
+                        </p>
+                        <a href="/news/world/asia">
+                          Asia
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/news/world-asia-61506568">
+                        Women win damages over Japan exam discrimination
                       </a>
                     </div>
                   </li>
@@ -1171,52 +1252,52 @@
                   </h2>
                   <ul>
                     <li>
-                      <a href="/news/world-europe-61490433">
+                      <a href="/news/business-61505842">
                         <span>
                           1
                         </span>
                         <h3>
-                          German breweries warn of beer bottle shortage
+                          Sri Lanka in first debt default in its history
                         </h3>
                       </a>
                     </li>
                     <li>
-                      <a href="/news/business-61488976">
+                      <a href="/news/business-61512255">
                         <span>
                           2
                         </span>
                         <h3>
-                          China plane crash likely intentional - US reports
+                          Russian McDonald's buyer to rebrand restaurants
                         </h3>
                       </a>
                     </li>
                     <li>
-                      <a href="/news/business-61489041">
+                      <a href="/news/business-61497817">
                         <span>
                           3
                         </span>
                         <h3>
-                          Netflix cuts 150 jobs after losing subscribers
+                          Global shares fall as growth fears rattle investors
                         </h3>
                       </a>
                     </li>
                     <li>
-                      <a href="/news/business-61497812">
+                      <a href="/news/world-europe-61503049">
                         <span>
                           4
                         </span>
                         <h3>
-                          McDonald's sued for burger ads that mislead on size
+                          Ukraine war could cause global food crisis - UN
                         </h3>
                       </a>
                     </li>
                     <li>
-                      <a href="/news/business-61497660">
+                      <a href="/news/world-asia-india-61503989">
                         <span>
                           5
                         </span>
                         <h3>
-                          Sunak warns of tough few months as inflation soars
+                          Tycoon's ride in India's cheapest car wins internet
                         </h3>
                       </a>
                     </li>
@@ -1327,6 +1408,62 @@
               <li>
                 <div>
                   <h2>
+                    <a href="https://www.bbc.com/future/bespoke/follow-the-food/">
+                      Follow the Food
+                    </a>
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <a href="http://www.bbc.com/future">
+                          Future
+                        </a>
+                        <h3>
+                          <a href="https://www.bbc.com/future/bespoke/follow-the-food/the-search-for-carbon-neutral-protein/">
+                            The search for carbon-neutral protein
+                          </a>
+                        </h3>
+                      </div>
+                      <a href="https://www.bbc.com/future/bespoke/follow-the-food/the-search-for-carbon-neutral-protein/">
+                        The search for carbon-neutral protein
+                      </a>
+                    </div>
+                  </div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <script></script>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h2>
+                    ADVERTISEMENT
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <script></script>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h2>
                     <a href="https://www.bbc.com/news/business-11428889">
                       Technology of Business
                     </a>
@@ -1366,62 +1503,6 @@
                   </div>
                 </div>
               </li>
-              <li>
-                <div>
-                  <h2>
-                    ADVERTISEMENT
-                  </h2>
-                  <div>
-                    <div>
-                      <div>
-                        <script></script>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div>
-                  <h2>
-                    <a href="https://www.bbc.com/news/business-15521824">
-                      New Tech Economy
-                    </a>
-                  </h2>
-                  <div>
-                    <div>
-                      <div>
-                        <div>
-                          <div>
-                            <img/>
-                          </div>
-                        </div>
-                      </div>
-                      <div>
-                        <a href="/news/business">
-                          Business
-                        </a>
-                        <h3>
-                          <a href="https://www.bbc.com/news/business-61391638">
-                            The new jet set - why private plane use has soared
-                          </a>
-                        </h3>
-                      </div>
-                      <a href="https://www.bbc.com/news/business-61391638">
-                        The new jet set - why private plane use has soared
-                      </a>
-                    </div>
-                  </div>
-                  <div>
-                    <div>
-                      <div>
-                        <div>
-                          <script></script>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
             </ul>
           </div>
         </section>
@@ -1446,19 +1527,19 @@
                   <span></span>
                   <div>
                     <h3>
-                      <a href="/news/world-asia-china-61467135">
-                        China's silenced feminist: How a journalist went missing
+                      <a href="/news/entertainment-arts-61510944">
+                        Cruise among stars gathering at the Cannes Film Festival
                       </a>
                     </h3>
                     <p>
-                      BBC Eye investigates the disappearance of Sophia Huang Xueqin, a high-profile feminist journalist who kick-started China’s #MeToo movement.
+                      A-listers gather at the Cannes Film Festival for the first time since the pandemic.
                     </p>
-                    <a href="/news/world/asia/china">
-                      China
+                    <a href="/news/entertainment_and_arts">
+                      Entertainment &amp; Arts
                     </a>
                   </div>
-                  <a href="/news/world-asia-china-61467135">
-                    China's silenced feminist: How a journalist went missing
+                  <a href="/news/entertainment-arts-61510944">
+                    Cruise among stars gathering at the Cannes Film Festival
                   </a>
                 </div>
               </div>
@@ -1494,16 +1575,16 @@
                         <span></span>
                         <div>
                           <h3>
-                            <a href="/news/world-asia-china-61467135">
-                              China's silenced feminist: How a journalist...
+                            <a href="/news/entertainment-arts-61510944">
+                              Cruise among stars gathering at the Cannes...
                             </a>
                           </h3>
-                          <a href="/news/world/asia/china">
-                            China
+                          <a href="/news/entertainment_and_arts">
+                            Entertainment &amp; Arts
                           </a>
                         </div>
-                        <a href="/news/world-asia-china-61467135">
-                          China's silenced feminist: How a journalist went missing
+                        <a href="/news/entertainment-arts-61510944">
+                          Cruise among stars gathering at the Cannes Film Festival
                         </a>
                       </div>
                     </li>
@@ -1569,16 +1650,16 @@
                         <span></span>
                         <div>
                           <h3>
-                            <a href="/news/world-australia-61482700">
-                              Woman kidnapped as a child reunites with...
+                            <a href="/news/world-middle-east-61500137">
+                              'Waking up in fear every day is exhausting'
                             </a>
                           </h3>
-                          <a href="/news/world/australia">
-                            Australia
+                          <a href="/news/world/middle_east">
+                            Middle East
                           </a>
                         </div>
-                        <a href="/news/world-australia-61482700">
-                          Woman kidnapped as a child reunites with rescuer
+                        <a href="/news/world-middle-east-61500137">
+                          'Waking up in fear every day is exhausting'
                         </a>
                       </div>
                     </li>
@@ -1594,16 +1675,16 @@
                         <span></span>
                         <div>
                           <h3>
-                            <a href="/news/world-australia-61493232">
-                              Australia PM crashes into boy during football...
+                            <a href="/news/world-europe-61300986">
+                              Orchestra evacuation - I left with my...
                             </a>
                           </h3>
-                          <a href="/news/world/australia">
-                            Australia
+                          <a href="/news/world/europe">
+                            Europe
                           </a>
                         </div>
-                        <a href="/news/world-australia-61493232">
-                          Australia PM crashes into boy during football match
+                        <a href="/news/world-europe-61300986">
+                          Orchestra evacuation - I left with my recorder
                         </a>
                       </div>
                     </li>
@@ -1744,16 +1825,66 @@
                         <span></span>
                         <div>
                           <h3>
-                            <a href="/news/world-latin-america-61478036">
-                              Colombian robbery victim crashes car into...
+                            <a href="/news/world-australia-61482700">
+                              Woman kidnapped as a child reunites with...
                             </a>
                           </h3>
-                          <a href="/news/world/latin_america">
-                            Latin America &amp; Caribbean
+                          <a href="/news/world/australia">
+                            Australia
                           </a>
                         </div>
-                        <a href="/news/world-latin-america-61478036">
-                          Colombian robbery victim crashes car into thieves
+                        <a href="/news/world-australia-61482700">
+                          Woman kidnapped as a child reunites with rescuer
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-us-canada-61502979">
+                              Taylor Swift tells graduates to embrace...
+                            </a>
+                          </h3>
+                          <a href="/news/world/us_and_canada">
+                            US &amp; Canada
+                          </a>
+                        </div>
+                        <a href="/news/world-us-canada-61502979">
+                          Taylor Swift tells graduates to embrace 'cringe'
+                        </a>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <span></span>
+                        <div>
+                          <h3>
+                            <a href="/news/world-australia-61493232">
+                              Australia PM crashes into boy during football...
+                            </a>
+                          </h3>
+                          <a href="/news/world/australia">
+                            Australia
+                          </a>
+                        </div>
+                        <a href="/news/world-australia-61493232">
+                          Australia PM crashes into boy during football match
                         </a>
                       </div>
                     </li>
@@ -1794,66 +1925,16 @@
                         <span></span>
                         <div>
                           <h3>
-                            <a href="/news/10462520">
-                              One-minute World News
+                            <a href="/news/uk-61501912">
+                              Ros Atkins on… the windfall tax debate
                             </a>
                           </h3>
-                          <a href="/news/video_and_audio">
-                            Video
+                          <a href="/news/uk">
+                            UK
                           </a>
                         </div>
-                        <a href="/news/10462520">
-                          One-minute World News
-                        </a>
-                      </div>
-                    </li>
-                    <li>
-                      <div>
-                        <div>
-                          <div>
-                            <div>
-                              <img/>
-                            </div>
-                          </div>
-                        </div>
-                        <span></span>
-                        <div>
-                          <h3>
-                            <a href="/news/uk-england-london-61468496">
-                              'Tesco told me to leave with my guide dog'
-                            </a>
-                          </h3>
-                          <a href="/news/england/london">
-                            London
-                          </a>
-                        </div>
-                        <a href="/news/uk-england-london-61468496">
-                          'Tesco told me to leave with my guide dog'
-                        </a>
-                      </div>
-                    </li>
-                    <li>
-                      <div>
-                        <div>
-                          <div>
-                            <div>
-                              <img/>
-                            </div>
-                          </div>
-                        </div>
-                        <span></span>
-                        <div>
-                          <h3>
-                            <a href="/news/world-australia-61463070">
-                              What Indigenous Australians want from the...
-                            </a>
-                          </h3>
-                          <a href="/news/world/australia">
-                            Australia
-                          </a>
-                        </div>
-                        <a href="/news/world-australia-61463070">
-                          What Indigenous Australians want from the election
+                        <a href="/news/uk-61501912">
+                          Ros Atkins on… the windfall tax debate
                         </a>
                       </div>
                     </li>
@@ -1913,19 +1994,19 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="/news/uk-northern-ireland-61494509">
-                            Derry Girls, cream horns and toasters in cupboards
+                          <a href="/news/entertainment-arts-61493945">
+                            10 things we learned at the Wagatha Christie trial
                           </a>
                         </h3>
                         <p>
-                          From 90s nostalgia, to Derry slang and cameos we take a look back over some iconic moments.
+                          Coleen Rooney and Rebekah Vardy went head-to-head in a high-profile High Court libel case.
                         </p>
-                        <a href="/news/northern_ireland">
-                          Northern Ireland
+                        <a href="/news/entertainment_and_arts">
+                          Entertainment &amp; Arts
                         </a>
                       </div>
-                      <a href="/news/uk-northern-ireland-61494509">
-                        Derry Girls, cream horns and toasters in cupboards
+                      <a href="/news/entertainment-arts-61493945">
+                        10 things we learned at the Wagatha Christie trial
                       </a>
                     </div>
                   </li>
@@ -1940,16 +2021,40 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="/news/world-us-canada-61488736">
-                            Californian court strikes down women on boards law
+                          <a href="https://www.bbc.co.uk/news/business-61479993">
+                            The radio station giving indigenous people a voice
+                          </a>
+                        </h3>
+                        <a href="http://www.bbc.com/news/business/">
+                          Business
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.co.uk/news/business-61479993">
+                        The radio station giving indigenous people a voice
+                      </a>
+                    </div>
+                  </li>
+                  <li>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="/news/world-us-canada-61502238">
+                            Social media role in Buffalo attack investigated
                           </a>
                         </h3>
                         <a href="/news/world/us_and_canada">
                           US &amp; Canada
                         </a>
                       </div>
-                      <a href="/news/world-us-canada-61488736">
-                        Californian court strikes down women on boards law
+                      <a href="/news/world-us-canada-61502238">
+                        Social media role in Buffalo attack investigated
                       </a>
                     </div>
                   </li>
@@ -1964,40 +2069,16 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="/news/technology-61323402">
-                            Costa Rica says it is at war with Conti hackers
-                          </a>
-                        </h3>
-                        <a href="/news/technology">
-                          Technology
-                        </a>
-                      </div>
-                      <a href="/news/technology-61323402">
-                        Costa Rica says it is at war with Conti hackers
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <div>
-                        <div>
-                          <div>
-                            <img/>
-                          </div>
-                        </div>
-                      </div>
-                      <div>
-                        <h3>
-                          <a href="/news/science-environment-61484697">
-                            Climate change swells odds of record India heatwave
+                          <a href="/news/science-environment-61501577">
+                            Why scientists are freezing threatened species
                           </a>
                         </h3>
                         <a href="/news/science_and_environment">
                           Science &amp; Environment
                         </a>
                       </div>
-                      <a href="/news/science-environment-61484697">
-                        Climate change swells odds of record India heatwave
+                      <a href="/news/science-environment-61501577">
+                        Why scientists are freezing threatened species
                       </a>
                     </div>
                   </li>
@@ -2036,16 +2117,16 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="/news/science-environment-61494348">
-                            Nasa's 'Marsquake' mission in its last months
+                          <a href="/news/science-environment-61497315">
+                            EU reveals its plans to stop using Russian gas
                           </a>
                         </h3>
                         <a href="/news/science_and_environment">
                           Science &amp; Environment
                         </a>
                       </div>
-                      <a href="/news/science-environment-61494348">
-                        Nasa's 'Marsquake' mission in its last months
+                      <a href="/news/science-environment-61497315">
+                        EU reveals its plans to stop using Russian gas
                       </a>
                     </div>
                   </li>
@@ -2060,16 +2141,16 @@
                       </div>
                       <div>
                         <h3>
-                          <a href="/news/world-us-canada-61485616">
-                            Heard denies striking Depp and doctoring photos
+                          <a href="/news/entertainment-arts-61506901">
+                            Case against Vardy is 'conspiracy', her lawyer says
                           </a>
                         </h3>
-                        <a href="/news/world/us_and_canada">
-                          US &amp; Canada
+                        <a href="/news/entertainment_and_arts">
+                          Entertainment &amp; Arts
                         </a>
                       </div>
-                      <a href="/news/world-us-canada-61485616">
-                        Heard denies striking Depp and doctoring photos
+                      <a href="/news/entertainment-arts-61506901">
+                        Case against Vardy is 'conspiracy', her lawyer says
                       </a>
                     </div>
                   </li>
@@ -2084,6 +2165,57 @@
                     Correspondents
                   </h2>
                   <ul>
+                    <li>
+                      <a href="https://www.bbc.com/news/technology-61469673">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          New app to help spot online spies
+                          <span>
+                            By Gordon Corera
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/business-61487871">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          Energy industry pushes back over windfall tax
+                          <span>
+                            By Douglas Fraser
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.bbc.com/news/business-61490614">
+                        <div>
+                          <div>
+                            <div>
+                              <img/>
+                            </div>
+                          </div>
+                        </div>
+                        <h3>
+                          What will it take to get inflation under control?
+                          <span>
+                            By Faisal Islam
+                          </span>
+                        </h3>
+                      </a>
+                    </li>
                     <li>
                       <a href="https://www.bbc.com/news/science-environment-61452860">
                         <div>
@@ -2169,57 +2301,6 @@
                         </h3>
                       </a>
                     </li>
-                    <li>
-                      <a href="https://www.bbc.com/news/uk-england-shropshire-61353540">
-                        <div>
-                          <div>
-                            <div>
-                              <img/>
-                            </div>
-                          </div>
-                        </div>
-                        <h3>
-                          Pig farm to close after big rise in feed prices
-                          <span>
-                            By David Gregory-Kumar
-                          </span>
-                        </h3>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.bbc.com/news/world-asia-india-61330302">
-                        <div>
-                          <div>
-                            <div>
-                              <img/>
-                            </div>
-                          </div>
-                        </div>
-                        <h3>
-                          Coal shortage sparks India's power woes
-                          <span>
-                            By Soutik Biswas
-                          </span>
-                        </h3>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.bbc.com/news/science-environment-61326413">
-                        <div>
-                          <div>
-                            <div>
-                              <img/>
-                            </div>
-                          </div>
-                        </div>
-                        <h3>
-                          World's rarest sea mammal not doomed - DNA study
-                          <span>
-                            By Helen Briggs
-                          </span>
-                        </h3>
-                      </a>
-                    </li>
                   </ul>
                 </div>
               </div>
@@ -2229,6 +2310,48 @@
         <section>
           <div>
             <ul>
+              <li>
+                <div>
+                  <h2>
+                    <a href="https://www.bbc.com/news/business-15521824">
+                      New Tech Economy
+                    </a>
+                  </h2>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <img/>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <h3>
+                          <a href="https://www.bbc.com/news/business-61391638">
+                            The new jet set - why private plane use has soared
+                          </a>
+                        </h3>
+                        <a href="/news/business">
+                          Business
+                        </a>
+                      </div>
+                      <a href="https://www.bbc.com/news/business-61391638">
+                        The new jet set - why private plane use has soared
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <div>
+                    <div>
+                      <script></script>
+                    </div>
+                  </div>
+                </div>
+              </li>
               <li>
                 <div>
                   <h2>
@@ -2258,48 +2381,6 @@
                       </div>
                       <a href="https://www.bbcselect.com/watch/house-of-maxwell/?[...]">
                         The House of Maxwell: One family, decades of scandal
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div>
-                  <div>
-                    <div>
-                      <script></script>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div>
-                  <h2>
-                    <a href="https://www.bbc.com/news/business-11428889">
-                      Technology of Business
-                    </a>
-                  </h2>
-                  <div>
-                    <div>
-                      <div>
-                        <div>
-                          <div>
-                            <img/>
-                          </div>
-                        </div>
-                      </div>
-                      <div>
-                        <h3>
-                          <a href="https://www.bbc.com/news/business-61346885">
-                            Why the volatile price of aluminium matters
-                          </a>
-                        </h3>
-                        <a href="/news/business">
-                          Business
-                        </a>
-                      </div>
-                      <a href="https://www.bbc.com/news/business-61346885">
-                        Why the volatile price of aluminium matters
                       </a>
                     </div>
                   </div>
@@ -2464,8 +2545,8 @@
                       </a>
                     </h3>
                     <p>
-                      <a href="/persian/61489829">
-                        چهار کشته در گروگان‌گیری ایلام؛ مهاجم نارنجک و سلاح گرم را 'در کیسه برنج پنهان کرده بود'
+                      <a href="/persian/iran-61506965">
+                        خبرگزاری نزدیک به سپاه احمدرضا جلالی را با پرونده شکنجه‌شدگان هسته‌ای مرتبط کرد
                       </a>
                     </p>
                   </li>
@@ -2476,8 +2557,8 @@
                       </a>
                     </h3>
                     <p>
-                      <a href="/mundo/noticias-internacional-61485345">
-                        Cómo Corea del Norte perdió el control de su estrategia contra la covid
+                      <a href="/mundo/noticias-america-latina-61502922">
+                        Por qué el presidente Boric dio un giro a su política al militarizar la zona de reclamo mapuche en Chile
                       </a>
                     </p>
                   </li>
@@ -2488,8 +2569,8 @@
                       </a>
                     </h3>
                     <p>
-                      <a href="/urdu/pakistan-61495067">
-                        ’انسانی ناکامی کی مایوس کن داستان‘: پاکستان، بھارت میں گرمی کے ریکارڈ ٹوٹنے کے امکانات 100 گنا زیادہ
+                      <a href="/urdu/pakistan-61509203">
+                        لگژری اشیا اور گاڑیوں کی درآمد پر پابندی سے حکومت کیا فائدہ حاصل کرنا چاہتی ہے؟
                       </a>
                     </p>
                   </li>
@@ -2500,8 +2581,8 @@
                       </a>
                     </h3>
                     <p>
-                      <a href="/vietnamese/vietnam-61498274">
-                        Gia đình nạn nhân Anh cố gắng đưa thi thể con từ Việt Nam về nước
+                      <a href="/vietnamese/vietnam-61513497">
+                        SEA Games: Dù fan chê, Tiến Linh thành anh hùng đưa Việt Nam vào chung kết bóng đá
                       </a>
                     </p>
                   </li>
@@ -2832,6 +2913,11 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/news">
+                    <svg>
+                      <path></path>
+                      <path></path>
+                      <path></path>
+                    </svg>
                     <span>
                       News
                     </span>
@@ -2839,6 +2925,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/sport">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Sport
                     </span>
@@ -2846,6 +2939,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/weather">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Weather
                     </span>
@@ -2853,6 +2953,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/iplayer">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       iPlayer
                     </span>
@@ -2860,6 +2967,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/sounds">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Sounds
                     </span>
@@ -2867,6 +2981,13 @@
                 </li>
                 <li>
                   <a href="https://www.bbc.co.uk/bitesize">
+                    <svg>
+                      <g>
+                        <path></path>
+                        <path></path>
+                        <path></path>
+                      </g>
+                    </svg>
                     <span>
                       Bitesize
                     </span>
